@@ -1,0 +1,16 @@
+---
+title: primer posteo
+author: ~
+date: '2021-01-20'
+slug: primer-posteo
+categories: []
+tags: []
+---
+
+Este es un posteo
+
+```{r}
+library(polAr)
+show_available_elections()
+```
+
